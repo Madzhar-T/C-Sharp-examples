@@ -1,0 +1,15 @@
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.exe
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.deps.json
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.runtimeconfig.json
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.AssemblyReference.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfoInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfo.cs
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\refint\Example010_MethodArray.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.genruntimeconfig.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example010_MethodArray\obj\Debug\net6.0\ref\Example010_MethodArray.dll

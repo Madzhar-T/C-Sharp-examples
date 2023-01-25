@@ -1,0 +1,15 @@
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\bin\Debug\net6.0\Examples012_continuon.exe
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\bin\Debug\net6.0\Examples012_continuon.deps.json
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\bin\Debug\net6.0\Examples012_continuon.runtimeconfig.json
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\bin\Debug\net6.0\Examples012_continuon.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\bin\Debug\net6.0\Examples012_continuon.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.csproj.AssemblyReference.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.AssemblyInfoInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.AssemblyInfo.cs
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.csproj.CoreCompileInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\refint\Examples012_continuon.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\Examples012_continuon.genruntimeconfig.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Examples012_continuon\obj\Debug\net6.0\ref\Examples012_continuon.dll

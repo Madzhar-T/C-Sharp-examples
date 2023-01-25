@@ -1,0 +1,15 @@
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\bin\Debug\net6.0\Example012_Methods2.exe
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\bin\Debug\net6.0\Example012_Methods2.deps.json
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\bin\Debug\net6.0\Example012_Methods2.runtimeconfig.json
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\bin\Debug\net6.0\Example012_Methods2.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\bin\Debug\net6.0\Example012_Methods2.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.csproj.AssemblyReference.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.AssemblyInfoInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.AssemblyInfo.cs
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.csproj.CoreCompileInputs.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\refint\Example012_Methods2.dll
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.pdb
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\Example012_Methods2.genruntimeconfig.cache
+C:\Курс разработчик\005 C sharp examples\Examples\Example012_Methods2\obj\Debug\net6.0\ref\Example012_Methods2.dll
